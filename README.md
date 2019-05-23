@@ -5,7 +5,7 @@ This repo contains the source code for the test client. This client is meant for
 
  - connect : Connect  to masterserver
  - join <n | r> : Join matchmaking for ranked (r option) or normal (n option) match
- - play <r | p | s> : In game, use this command to play one of the three (je sais pas quelle mot mettre ici lol je suis fatigué, j'changerais ça plus tard)
+ - play <r | p | s> : In game, use this command to play either rock, paper or scissors
  
  ### Usage
 
